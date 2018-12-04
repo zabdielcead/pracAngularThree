@@ -28,5 +28,7 @@ export class AppComponent {
     });
     fecha = new Date();
     video = 'NFDtIqnFm3Y';
+    nombrepass = 'carlitos';
+    activar = true;
 }
 registerLocaleData(localeEs, 'es');
